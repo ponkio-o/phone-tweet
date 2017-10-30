@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say language="ja-JP">ツイート内容を録音します。録音後、シャープを押してください。</Say>
+  <Record method="GET" timeout="60" maxLength="30" finishOnKey="#" action="./get.php" />
+</Response>
